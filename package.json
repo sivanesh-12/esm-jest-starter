@@ -1,0 +1,17 @@
+{
+  "name": "esm-jest-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "jest": "^25.1.0",
+    "jest-esm-transformer": "^1.0.0"
+  }
+}
